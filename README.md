@@ -1,6 +1,6 @@
 <img src = "gif.gif" width = "325px" align = "right">
 
-# Olá! Eu sou o Roberto Santos, seja bem vindo ao meu Github!
+# ❤ Olá, seja bem vindo ao meu Github!
 
 - 🔭 Hoje faço a faculdade de Análise e Desenvolvimento de Sistemas
 - 👨‍💻 Sou programador Front-end.
