@@ -2,8 +2,8 @@
 
 # ❤ Olá, seja bem vindo ao meu Github!
 
-- 🔭 Hoje faço a faculdade de Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Sou programador Front-end.
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 👨‍💻 Developer Front-end.
 
 <div align="center">
   <a href="https://github.com/santosrobertin">
