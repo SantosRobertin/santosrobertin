@@ -1,4 +1,4 @@
-<img src = "gif.gif" width = "325px">
+<img src = "gif.gif" width = "325px" align = "right">
 
 # Olá! Eu sou o Roberto Santos, seja bem vindo ao meu Github!
 
