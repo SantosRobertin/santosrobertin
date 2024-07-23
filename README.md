@@ -1,13 +1,13 @@
 <img src = "gif.gif" width = "325px" align = "right">
 
-# ❤ Olá, seja bem vindo ao meu Github!
+# Seja bem vindo ao meu Github! 💻
 
   <div id="badges"> 
   <a href="https://github.com/santosrobertin">
    <a href="https://www.instagram.com/betox.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberto-santos-1727a5232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-Sou desenvolvedor web, tenho aprendido a amar a programação.
+Apaixonado por tecnologia e tenho aprendido a amar a programação.
     
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 👨‍💻 Developer Front-end.
