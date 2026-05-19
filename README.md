@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee3a1f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ee3a1f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Roberto+Santos;I'm+25+years+old;I+am+from+Vitória,+ES;I+study+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
-<h1 align="center">Olá! Eu sou o Roberto (BetoX) 📊🔒</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Roberto+Santos;I'm+27+years+old;I+am+from+Vitória,+ES;I+study+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <h3 align="center">Profissional de TI | Dados, Infraestrutura & Segurança da Informação</h3>
 
